@@ -1,0 +1,8 @@
+*.ppt
+*.bz2
+*.jpg
+*.txt
+*.swp
+*.pdf
+data/*
+.DS_Store
